@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\james\desktop\print the sequence backward\print the sequence backward\source.cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+c:\users\james\desktop\print the sequence backward\print the sequence backward\source.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  Print the Sequence Backward.vcxproj -> C:\Users\James\Desktop\Print the Sequence Backward\Debug\Print the Sequence Backward.exe
+  Print the Sequence Backward.vcxproj -> C:\Users\James\Desktop\Print the Sequence Backward\Debug\Print the Sequence Backward.pdb (Partial PDB)

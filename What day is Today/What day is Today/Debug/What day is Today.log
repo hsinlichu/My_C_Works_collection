@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\james\desktop\what day is today\what day is today\source.cpp(8): warning C4018: '<': signed/unsigned 不相符
+c:\users\james\desktop\what day is today\what day is today\source.cpp(87): warning C4101: 'check': 未參考的區域變數
+  What day is Today.vcxproj -> C:\Users\James\Desktop\What day is Today\Debug\What day is Today.exe
+  What day is Today.vcxproj -> C:\Users\James\Desktop\What day is Today\Debug\What day is Today.pdb (Partial PDB)

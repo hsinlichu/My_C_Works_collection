@@ -1,0 +1,7 @@
+﻿  Source2.c
+c:\users\james\desktop\larger than neighbors\larger than neighbors\source2.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+c:\users\james\desktop\larger than neighbors\larger than neighbors\source2.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  Larger than Neighbors.vcxproj -> C:\Users\James\Desktop\Larger than Neighbors\Debug\Larger than Neighbors.exe
+  Larger than Neighbors.vcxproj -> C:\Users\James\Desktop\Larger than Neighbors\Debug\Larger than Neighbors.pdb (Partial PDB)

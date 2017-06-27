@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\james\desktop\program\c++\quare, diamond, and rectangle\quare, diamond, and rectangle\source.cpp(112): warning C4838: 從 'double' 到 'int' 的轉換必須是縮小轉換
+c:\users\james\desktop\program\c++\quare, diamond, and rectangle\quare, diamond, and rectangle\source.cpp(112): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  quare, Diamond, and Rectangle.vcxproj -> C:\Users\James\Desktop\Program\C++\quare, Diamond, and Rectangle\Debug\quare, Diamond, and Rectangle.exe
+  quare, Diamond, and Rectangle.vcxproj -> C:\Users\James\Desktop\Program\C++\quare, Diamond, and Rectangle\Debug\quare, Diamond, and Rectangle.pdb (Partial PDB)
