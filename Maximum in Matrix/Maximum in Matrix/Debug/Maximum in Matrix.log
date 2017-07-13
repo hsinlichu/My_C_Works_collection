@@ -1,0 +1,4 @@
+﻿  max.c
+c:\users\james\desktop\maximum in matrix\maximum in matrix\max.c(4): warning C4047: '正在初始化': 'int *' 與 'int (*)[5]' 間接取值的層級不同
+  Maximum in Matrix.vcxproj -> C:\Users\James\Desktop\Maximum in Matrix\Debug\Maximum in Matrix.exe
+  Maximum in Matrix.vcxproj -> C:\Users\James\Desktop\Maximum in Matrix\Debug\Maximum in Matrix.pdb (Partial PDB)

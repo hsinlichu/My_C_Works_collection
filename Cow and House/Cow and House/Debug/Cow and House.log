@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\james\desktop\cow and house\cow and house\source.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  Cow and House.vcxproj -> C:\Users\James\Desktop\Cow and House\Debug\Cow and House.exe
+  Cow and House.vcxproj -> C:\Users\James\Desktop\Cow and House\Debug\Cow and House.pdb (Partial PDB)
